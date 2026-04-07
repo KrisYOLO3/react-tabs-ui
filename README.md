@@ -11,7 +11,7 @@ Reusable Component Architecture: The core logic is encapsulated in a Tabbed comp
 
 Clean Data Structure: Content is managed through a structured array, allowing for easy updates and scalability.
 
-Tech Stack
+# Tech Stack
 Framework: React (Functional Components)
 
 State Management: React useState Hook
